@@ -46,7 +46,7 @@
     "commander": "^11.0.0",
     "compare-versions": "^6.0.0",
     "cosmiconfig": "^8.2.0",
-    "esbuild": "^0.19.11",
+    "esbuild": "^0.28.1",
     "execa": "^7.1.1",
     "lru-cache": "^10.0.0",
     "ora": "^6.3.1",
